@@ -38,11 +38,6 @@ This project contains a series of SQL queries designed to extract valuable insig
 This project assumes the structure of a **music store schema** commonly used in SQL exercises, which includes tables like:
 - `customer`, `invoice`, `invoice_line`
 - `track`, `album`, `artist`, `genre`
-
-> If needed, you can use the **Chinook database**, a well-known music store dataset.
-
-📥 [Download Chinook SQLite Dataset](https://github.com/lerocha/chinook-database)
-
 ---
 
 ## ✅ Status
